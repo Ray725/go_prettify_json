@@ -2,5 +2,6 @@
 
 ## Planned Usage
 
-- Input File/HTTP POST: JSON
-- Output FILE/HTTP Response: HTML document of JSON in a pretty format
+- Input Type: JSON
+- Input Method: POST, form on landing page
+- Output/Response Type: HTML document of JSON in a pretty format
